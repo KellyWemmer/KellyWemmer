@@ -29,7 +29,7 @@
       <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="50" height="50" title="MySQL">
       <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="50" height="50" title="NodeJS">
       <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="50" height="50" title="Python">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" width="50" height="50" title="NodeJS">      
+      <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" width="50" height="50" title="SQLite">      
     </div>
     <br>
     <br>
