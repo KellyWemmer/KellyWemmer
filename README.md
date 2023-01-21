@@ -32,10 +32,11 @@
     </div>
     <br>
     <br>
-    <div class="m2">
+    <div>
       <div>
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KellyWemmer&layout=compact&hide=jupyter%20notebook&them=gruvbox">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KellyWemmer&layout=compact&hide=jupyter%20notebook&theme=gruvbox">
       </div>
+      <br>
       <div>
         <img src="https://github-readme-stats.vercel.app/api?username=KellyWemmer&theme=gruvbox">
       </div>
