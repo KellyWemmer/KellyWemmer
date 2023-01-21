@@ -8,10 +8,7 @@
       <div align="center">        
         <a href="https://www.linkedin.com/in/kelly-wemmer-parmeter/">
           <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width="50" height="50" title="LinkedIn">
-        </a>
-        <a href="https://github.com/KellyWemmer">
-          <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="50" height="50" title="GitHub">
-        </a>
+        </a>        
       </div>
     <div>
       <h2>Technical Skills Include:</h2>
