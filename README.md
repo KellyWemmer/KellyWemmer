@@ -32,5 +32,9 @@
     </div>
     <br>
     <br>
+    <div>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KellyWemmer&layout=compact&hide=jupyter%20notebook">
+      <img src="https://github-readme-stats.vercel.app/api?username=KellyWemmer&theme=merko">
+    </div>
   </div>       
 </div>
