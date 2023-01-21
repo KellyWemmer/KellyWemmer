@@ -32,9 +32,13 @@
     </div>
     <br>
     <br>
-    <div>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KellyWemmer&layout=compact&hide=jupyter%20notebook">
-      <img src="https://github-readme-stats.vercel.app/api?username=KellyWemmer&theme=merko">
-    </div>
+    <div class="m2">
+      <div>
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KellyWemmer&layout=compact&hide=jupyter%20notebook&them=gruvbox">
+      </div>
+      <div>
+        <img src="https://github-readme-stats.vercel.app/api?username=KellyWemmer&theme=gruvbox">
+      </div>
+    </div>  
   </div>       
 </div>
