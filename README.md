@@ -2,7 +2,7 @@
   <h1>Hello!</h1>
   <div class="body">
     <div>
-      <h4>My name is Kelly and I'm a Full Stack Developer who enjoys continuous learning. Feel free to browse my respositories to see what projects I've been working on. If you would like to contact me, please click below.</h4>
+      <h4>My name is Kelly and I'm a Full Stack Developer who enjoys continuous learning. Feel free to browse my repositories to see what projects I've been working on. If you would like to contact me, please click below.</h4>
     </div>
     <br>    
       <div align="center">        
